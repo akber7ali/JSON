@@ -1,0 +1,14 @@
+
+{
+"Name": "Akber ALi ",
+"Mobile": 13221654,
+"City":"Karachi",
+"Course":["DART","Fluttter","C#"],
+"Address":{
+
+        "Area":"North Karachi",
+        "POSTAL":7453
+
+}
+
+}

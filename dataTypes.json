@@ -1,0 +1,17 @@
+{
+ "name":"Akber",
+ "mark":78,
+ "date":"2024-12-14",
+ "course":["ASP","C++"],
+ "address":{
+        "city":"Karachi",
+        "area":"North",
+        "pin":123,
+
+
+ },
+ "gender":"male",
+ "dod":null
+
+
+}
